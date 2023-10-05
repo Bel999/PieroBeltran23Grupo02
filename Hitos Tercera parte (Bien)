@@ -1,1 +1,35 @@
+Hito 1 (Arduino)
+1. Microprocesador
+El microprocesador del Arduino es el ATmega2560, tecnología CMOS de 8bits, arquitectura RISC, alcanza un 1MIPS por MHz.
 
+2. Entradas digitales
+Tenemos un total de 54 entradas digitales
+(Cada pin funciona a 5V y reciben o proporcionan 20mA (carga max 40mA))
+
+3. Entradas analógicas
+Tenemos un total de 16 entradas analógicas
+Cada una proporciona una resolucion de 10bits
+
+4. Alimentación
+Tiene un voltaje de operacion de 5 V
+El voltaje de entrada recomendado es de 7-12 V
+Aunque admite un rango de 6-20 V
+
+5. Salidas de tensión
+En cuanto a salidas de tension tenemos dos o bien atraves de un cable USB o atraves de una bateria externa de 9 Voltios (Se supone que admite entre 7 y 20 V)
+
+6. Gnd
+7. PWM
+Tenemos 15 entradas PWM
+
+8. Uarts
+Protocolo en serie, tenemos puertos en linea TX y RX que se cruzan para comunicar dos dispositivos. El harware que transmite TX y el que recive RX se transmite 8bits de datos
+
+9. Comunicacion SPI
+Protocolo en serie, Maestro-Esclavo el maestro envia una señal de reloj y tras cada pulso envia un bit l esclabo
+(Señales SCK(reloj), MOSI(m out s in), MISO(m in s out))
+
+10. -Memorias
+Cuenta con una memoria Flash de 256KB de los cuales 8 KB para el arranque
+SRAM de 8KB
+EEPROM de 4KB
