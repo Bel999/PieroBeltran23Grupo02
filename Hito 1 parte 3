@@ -1,4 +1,4 @@
-Apartado 3: Estudio del Arduino Mega 2560
+# Apartado 3: Estudio del Arduino Mega 2560
 
 ¿Cuáles son las principales características del microprocesador de este Arduino?
 Lleva un Atmel Atmega2560-16AU basado en la arquitectura RISC; en un solo ciclo puede lograr un rendimiento de 1 MIPS por MHz, optimizando así tanto el consumo de energía como la velocidad de procesamiento. 
