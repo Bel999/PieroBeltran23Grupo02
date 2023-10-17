@@ -1,6 +1,6 @@
 # PORTFOLIO DE BELTRÁN MARQUINA
-Este es mi portfolio personal para seguir y documentar la realizacion del proyecto DIY Piero,
-en la asignatura de Regulación automática.
+> Este es mi portfolio personal para seguir y documentar la realizacion del proyecto DIY Piero,
+> en la asignatura de Regulación automática.
 
 ## Que es un Piero
 Es un robor que se construye apartir del ArduinoMega2650 y esta programado en Matlab, el objetivo es lograr programarlo para que cumpla
