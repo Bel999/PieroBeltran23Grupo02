@@ -1,5 +1,5 @@
-# PORTFOLIO DE BELTRÁN MARQUINA
-> Este es mi portfolio personal para seguir y documentar el progresi de la construccion del proyecto DIY Piero,
+#  PORTFOLIO DE BELTRÁN MARQUINA
+> Este es mi portfolio personal para seguir y documentar mi progreso en el proyecto DIY Piero,
 > en la asignatura de Regulación automática.
 
 ## Que es un Piero
