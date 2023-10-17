@@ -59,4 +59,5 @@ simplemente creamos un nuevo proyecto, y con los bloques de math operation vamos
 construyendo las diferentes ecuaciones previamente calculadas
 
 ### B
-[1]https://controlautomaticoeducacion.com/analisis-de-sistemas/modelo-de-motor-dc/
+[1] https://controlautomaticoeducacion.com/analisis-de-sistemas/modelo-de-motor-dc/
+[2] https://www.youtube.com/watch?v=av7eS0-lWtU&t=180s
