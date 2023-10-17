@@ -1,4 +1,5 @@
-#  PORTFOLIO DE BELTRÁN MARQUINA
+#  ESTE ES MI PORTFOLIO PERSONAL ( BELTRÁN MARQUINA SANTAMRÍA )
+
 > Este es mi portfolio personal para seguir y documentar mi progreso en el proyecto DIY Piero,
 > en la asignatura de Regulación automática.
 
