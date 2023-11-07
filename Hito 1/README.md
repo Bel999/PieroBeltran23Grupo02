@@ -4,5 +4,5 @@
 ## Video Segunda Parte Modelo de los Motore
   > [![Alt text](https://img.youtube.com/vi/ZAYnp8cRf4A/0.jpg)](https://www.youtube.com/watch?v=ZAYnp8cRf4A)
 ## Viedo del PIERO Saliendo de Clase (EVITA_PAREDES)
-  > [![Alt text](https://img.youtube.com/vi/Miby-b-NJhg/0.jpg)](https://www.youtube.com/watch?v=Ml6tslQ3Z-fsGaBV)
+  > [![Alt text](https://img.youtube.com/vi/Miby-b-NJhg/0.jpg)](https://www.youtube.com/watch?v=Miby-b-NJhg)
 
