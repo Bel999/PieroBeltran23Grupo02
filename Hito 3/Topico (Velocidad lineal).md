@@ -6,7 +6,7 @@ perceptible de la indicación correspondiente. [5] ∆ω = ∆v/𝑇𝑚
 Haciendo zoom en la gráfica de la salida de la velocidad. Hay un punto en el que 
 se ve una “escalera”. Esto quieres decir que la velocidad no es un valor continuo. 
 La medida de un escalón es la resolución
-¿Cómo calculamos la velocidad lineal?
+## ¿Cómo calculamos la velocidad lineal?
 ∆v = ∆ω ∗ r = 0.05*(2𝜋/360)*𝑛º𝑃𝑢𝑙𝑠𝑜𝑠𝐸𝑛𝑐ó𝑑𝑒𝑟/0.01
 
 ## ¿Qué es la discretización?
