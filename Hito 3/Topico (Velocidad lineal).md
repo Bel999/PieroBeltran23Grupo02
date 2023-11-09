@@ -39,5 +39,4 @@ Como hemos dicho anteriormente, siendo el error la mitad de la resolución en
 este caso sería de 0.041.
 
 https://www.buenastareas.com/ensayos/Caracteristicas-De-La-Velocidad-Lineal/44364517.html.
-https://www.raig.com/noticias/rango-resolucion-y-precision. [Accessed: 29-Nov-2018].
-
+https://www.raig.com/noticias/rango-resolucion-y-precision.
