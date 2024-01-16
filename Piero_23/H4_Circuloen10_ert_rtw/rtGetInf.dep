@@ -1,0 +1,10 @@
+rtGetInf.o: D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rtGetInf.c \
+ D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rtwtypes.h \
+ D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rtGetInf.h \
+ D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rt_nonfinite.h
+
+D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rtGetInf.h:
+
+D:/MATLAB/Piero_23/H4_Circuloen10_ert_rtw/rt_nonfinite.h:

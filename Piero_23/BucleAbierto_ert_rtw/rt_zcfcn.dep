@@ -1,0 +1,16 @@
+rt_zcfcn.o: D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rt_zcfcn.c \
+ D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/zero_crossing_types.h \
+ D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rtwtypes.h \
+ D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rt_zcfcn.h \
+ D:/Matlab23/simulink/include/solver_zc.h \
+ D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rtwtypes.h
+
+D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/zero_crossing_types.h:
+
+D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rt_zcfcn.h:
+
+D:/Matlab23/simulink/include/solver_zc.h:
+
+D:/MATLAB/Piero_23/BucleAbierto_ert_rtw/rtwtypes.h:

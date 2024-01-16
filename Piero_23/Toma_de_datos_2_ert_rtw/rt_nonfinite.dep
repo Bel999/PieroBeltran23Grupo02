@@ -1,0 +1,13 @@
+rt_nonfinite.o: D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rt_nonfinite.c \
+ D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtGetNaN.h \
+ D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rt_nonfinite.h \
+ D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtwtypes.h \
+ D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtGetInf.h
+
+D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtGetNaN.h:
+
+D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rt_nonfinite.h:
+
+D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/Piero_23/toma_de_datos_2_ert_rtw/rtGetInf.h:

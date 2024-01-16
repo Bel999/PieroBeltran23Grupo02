@@ -1,0 +1,11 @@
+rtGetNaN.o: \
+ D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rtGetNaN.c \
+ D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rtwtypes.h \
+ D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rtGetNaN.h \
+ D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rt_nonfinite.h
+
+D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rtGetNaN.h:
+
+D:/MATLAB/Proyecto_piero/H2/Toma_De_Datos_grafica_ert_rtw/rt_nonfinite.h:

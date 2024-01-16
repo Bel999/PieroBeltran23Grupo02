@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "D:\MATLAB\Piero_23\ControlBA_1_ert_rtw/Primera_Parte_Hito2_Siganl_PWM.hex"
+avrdude: writing flash (29614 bytes):
+avrdude: 29614 bytes of flash written
+
+avrdude done.  Thank you.
+

@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "D:\MATLAB\Piero_23/toma_de_datos_2_Z.hex"
+avrdude: writing flash (30282 bytes):
+avrdude: 30282 bytes of flash written
+
+avrdude done.  Thank you.
+

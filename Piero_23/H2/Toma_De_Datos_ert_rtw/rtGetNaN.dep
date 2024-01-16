@@ -1,0 +1,10 @@
+rtGetNaN.o: D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rtGetNaN.c \
+ D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rtwtypes.h \
+ D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rtGetNaN.h \
+ D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rt_nonfinite.h
+
+D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rtGetNaN.h:
+
+D:/MATLAB/H2/Toma_De_Datos_ert_rtw/rt_nonfinite.h:
